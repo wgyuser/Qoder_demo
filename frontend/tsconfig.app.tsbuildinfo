@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/api/user.ts","./src/router/index.ts","./src/app.vue","./src/views/userlist.vue","./env.d.ts"],"version":"5.7.3"}
