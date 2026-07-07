@@ -1,0 +1,18 @@
+# Build artifacts
+**/target/
+**/dist/
+**/node_modules/
+*.tsbuildinfo
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
